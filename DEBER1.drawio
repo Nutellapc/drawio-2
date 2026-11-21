@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="H75cOcQOSp4If1h3cD9B">
-    <mxGraphModel dx="1651" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,6 +50,11 @@
         <mxCell id="94sANIyvZZPAkZlvHIJy-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="OIDC" vertex="1">
           <mxGeometry height="20" width="40" x="400" y="30" as="geometry" />
         </mxCell>
+        <mxCell id="-0QyDk7iMpW0k2E4r87v-27" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#76608a;strokeColor=#432D57;" target="rq7fXVQzksJFTFZWg36c-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rq7fXVQzksJFTFZWg36c-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="FACTURACION&lt;div&gt;Emite y consulta facturas&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="110" x="358" y="180" as="geometry" />
         </mxCell>
@@ -70,6 +75,14 @@
         </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-21" edge="1" parent="1" source="16qjTMgbfxR2lAi_zYWk-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="16qjTMgbfxR2lAi_zYWk-14" value="">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0QyDk7iMpW0k2E4r87v-28" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#76608a;strokeColor=#432D57;" target="16qjTMgbfxR2lAi_zYWk-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="610" y="340" />
+            </Array>
+            <mxPoint x="370" y="340" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fontSize=10;" value="SOPORTE&lt;div&gt;Registra y da seguimiento a fallas&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="100" x="555" y="150" as="geometry" />
@@ -133,17 +146,37 @@
         <mxCell id="16qjTMgbfxR2lAi_zYWk-28" edge="1" parent="1" source="16qjTMgbfxR2lAi_zYWk-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="16qjTMgbfxR2lAi_zYWk-27" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-0QyDk7iMpW0k2E4r87v-25" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#76608a;strokeColor=#432D57;" target="16qjTMgbfxR2lAi_zYWk-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="440" />
+              <mxPoint x="240" y="440" />
+            </Array>
+            <mxPoint x="220" y="430" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="COLA DE MENSAJES&amp;nbsp;" vertex="1">
           <mxGeometry height="60" width="120" x="220" y="360" as="geometry" />
         </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-30" edge="1" parent="1" source="16qjTMgbfxR2lAi_zYWk-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="16qjTMgbfxR2lAi_zYWk-29" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="-0QyDk7iMpW0k2E4r87v-26" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#76608a;strokeColor=#432D57;" target="16qjTMgbfxR2lAi_zYWk-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="420" y="430" />
+              <mxPoint x="441" y="430" />
+              <mxPoint x="441" y="440" />
+              <mxPoint x="450" y="440" />
+            </Array>
+            <mxPoint x="420" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-27" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="NOTIFICACIONES&lt;div&gt;Envia confirmaciones&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="390" y="360" as="geometry" />
         </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-29" parent="1" style="whiteSpace=wrap;html=1;rounded=1;roundedPerimeter=1;" value="BD DE NOTIFICACONES" vertex="1">
-          <mxGeometry height="60" width="110" x="550" y="360" as="geometry" />
+          <mxGeometry height="60" width="110" x="600" y="360" as="geometry" />
         </mxCell>
         <mxCell id="16qjTMgbfxR2lAi_zYWk-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Consume" vertex="1">
           <mxGeometry height="20" width="40" x="340" y="360" as="geometry" />
@@ -168,12 +201,12 @@
           <mxGeometry height="80" width="200" x="500" y="430" as="geometry" />
         </mxCell>
         <mxCell id="-0QyDk7iMpW0k2E4r87v-24" edge="1" parent="1" source="-0QyDk7iMpW0k2E4r87v-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;fillColor=#647687;strokeColor=#314354;" target="-0QyDk7iMpW0k2E4r87v-12">
-          <mxGeometry relative="1" x="-0.405" as="geometry">
+          <mxGeometry relative="1" x="-0.4049" as="geometry">
             <Array as="points">
               <mxPoint x="160" y="245" />
               <mxPoint x="160" y="430" />
               <mxPoint x="420" y="430" />
-              <mxPoint x="420" y="480" />
+              <mxPoint x="420" y="490" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -190,10 +223,10 @@
           <mxGeometry height="30" width="40" x="640" y="150" as="geometry" />
         </mxCell>
         <mxCell id="-0QyDk7iMpW0k2E4r87v-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Proxy&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 9px;&quot;&gt;sidecar&lt;/font&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="30" width="40" x="430" y="340" as="geometry" />
+          <mxGeometry height="30" width="40" x="500" y="350" as="geometry" />
         </mxCell>
         <mxCell id="-0QyDk7iMpW0k2E4r87v-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;" value="HASHICORP VAULT&lt;div&gt;Credenciales y claves&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="180" x="200" y="450" as="geometry" />
+          <mxGeometry height="40" width="180" x="200" y="470" as="geometry" />
         </mxCell>
         <mxCell id="-0QyDk7iMpW0k2E4r87v-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcd28;gradientColor=#ffa500;strokeColor=#d79b00;" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;CIRCUIT BRAKER TIME WAIT&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="70" x="100" y="210" as="geometry" />
@@ -206,6 +239,9 @@
         </mxCell>
         <mxCell id="-0QyDk7iMpW0k2E4r87v-23" connectable="0" parent="-0QyDk7iMpW0k2E4r87v-22" style="edgeLabel;resizable=0;html=1;inheritText=1;;align=center;verticalAlign=middle;defaultLabelBackgroundColor=page;labelPadding=0 4;" value="&lt;font style=&quot;font-size: 5px;&quot;&gt;VERIFICA COBERTURA&lt;/font&gt;&lt;div&gt;mTLS&lt;/div&gt;" vertex="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-0QyDk7iMpW0k2E4r87v-29" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Credenciales aprobadas" vertex="1">
+          <mxGeometry height="30" width="60" x="410" y="475" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
